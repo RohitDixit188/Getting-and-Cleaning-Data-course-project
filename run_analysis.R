@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data-course-project
-
+library(dplyr)
 #  First Step 
 #  To Merge the training and test sets to create one data set.
 ######
